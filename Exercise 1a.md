@@ -1,1 +1,3 @@
-`$curl -L http://dx.doi.org/10.7934/K5H41PBP`
+`$ curl -L -s -S http://dx.doi.org/10.7935/K5H41PBP >exercise1a.txt`
+
+`$grep title exercise1a.txt`
