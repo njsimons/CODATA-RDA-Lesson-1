@@ -1,4 +1,5 @@
 What is a DOI?.md
+Exercise 1a.md
 figures/interactive-figure-1469220548070/figure.html
 What is a DOI (1).md
 figures/Figure 1/Figure 1.png
