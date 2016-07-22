@@ -1,2 +1,2 @@
-Introduction to DOIs.md
+What is a DOI?.md
 Getting a DOI.md
