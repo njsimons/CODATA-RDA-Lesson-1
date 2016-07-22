@@ -1,1 +1,1 @@
-Anatomy of a DOI
+Figure 1. Anatomy of a DOI
