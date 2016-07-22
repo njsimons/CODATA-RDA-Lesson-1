@@ -1,1 +1,1 @@
-Use command line tools to resolve a DOI to confirm its validity, and determine the title of the associated information resource.
+**Exercise 1a. Use command line tools to resolve a DOI to confirm its validity, and determine the title of the associated information resource.**
