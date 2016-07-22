@@ -1,4 +1,4 @@
-## What is a DOI?
+
 
 Digital Object Identifiers (DOIs) are unique names assigned to information resources that are usually (but not necessarily) located on the Internet. The DOI not only distinguishes the resource from others, but also  provides a persistent link to its representation on the Internet. When put in URL form, the DOI automatically redirects the user to a landing page that offers information about the resource. 
 
