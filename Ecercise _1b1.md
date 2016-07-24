@@ -1,1 +1,1 @@
-`$curl http://api.crossref.org/works/http://dx.doi.org/10.2307/1578389/agency`
+`$ curl doi.crossref.org/doiRA/10.5170/CERN-2000-001.101`
