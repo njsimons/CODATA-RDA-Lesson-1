@@ -1,1 +1,1 @@
-##Excercise 1b. Determine which DOI agency maintains a given DOI?
+**Excercise 1b. Given a valid DOI, determine which Agency issued it**
