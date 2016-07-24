@@ -1,5 +1,5 @@
 What is a DOI?.md
-Exercise1a. Determine if a DOI string is valid.md
+Exercise_1a.md
 Exercise 1a.md
 Exercise 1b..md
 What is a DOI (1).md
