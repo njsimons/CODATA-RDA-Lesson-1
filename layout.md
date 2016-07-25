@@ -1,5 +1,5 @@
 What is a DOI?.md
-Exercise_1a-i.md
+Exercise_1a(i).md
 Exercise_1a_code.md
 Exercise1a-ii.md
 Exercise _1a-ii_code1.md
