@@ -1,1 +1,1 @@
-# **CODATA RDA Lesson 1: Digital Object Identifiers for Researchers**
+#CODATA RDA Lesson 1: Digital Object Identifiers for Researchers
