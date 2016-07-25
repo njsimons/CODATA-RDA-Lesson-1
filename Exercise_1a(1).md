@@ -1,1 +1,1 @@
-**Exercise 1a(1). Gain experience resolving a DOI to the URL for the associated information resource on the Web.**
+**Exercise 1a(1). Demonstrate how to resolve a DOI to the URL for the associated information resource on the Web.**
