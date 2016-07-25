@@ -4,6 +4,6 @@
 
 You have two options: 
 
--item Use the services of an existing Registrant, such as a Publisher, Library, or Data Center who is assisting you with disseminating and preserving your research outputs. If you aren't working with one of these RAs, you can submit your work to an open research sharing system such as Zenodo where your  
++ Use the services of an existing Registrant, such as a Publisher, Library, or Data Center who is assisting you with disseminating and preserving your research outputs. If you aren't working with one of these RAs, you can submit your work to an open research sharing system such as Zenodo where your ubmission is assigned a DOI, archived, and disseminated over the open Web.
 
-or become a member of a DOI Registration Agency (RA). RAs collect metadata, assign DOI names, and offer other services such as reference linking or metadata lookup. See the list of RAs, and contact the ones whose services best meet your needs.
++ Alternatively, your organization can join a DOI Registration Agency (RA) and become a DOI Registrant. This commitment requires an investment of time, infrastructure, funds, and human resources to ensure that registered DOIs are maintained and revised as content changes or moves. Information about becoming a DOI registration is available from the DOI Foundation.
