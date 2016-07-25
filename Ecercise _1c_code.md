@@ -1,1 +1,1 @@
-`$curl -s -S -L `
+`$curl -s -S http://api.crossref.org/works/http://dx.doi.org/10.2307/1578389 > ex1c.txt`
