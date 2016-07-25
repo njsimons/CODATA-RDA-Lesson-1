@@ -1,6 +1,7 @@
 What is a DOI?.md
 Exercise_1a-i.md
 Exercise_1a_code.md
+Exercise_1a-ii.md
 DOI System.md
 Exercise 1b..md
 What is a DOI (1).md
