@@ -15,6 +15,6 @@ Exercise _1b_code.md
 Exercise_1c.md
 Exercise _1c_code.md
  What does a DOI look like?.md
-Getting a DOI.md
+Module 1c. Getting a DOI.md
 More Code Examples to Try.md
 More Code Examples.md
