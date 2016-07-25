@@ -1,1 +1,1 @@
-**Exercise 1a. Resolve a DOI to confirm its validity, and determine the title of the associated information resource.*
+**Exercise 1a. Resolve a DOI to confirm its validity, and determine the title of the associated information resource.**
