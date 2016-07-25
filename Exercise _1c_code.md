@@ -4,7 +4,7 @@ Fetch metadata associated with a CrossRef DOI:
 Now search for the author and title in the saved citation to see what work the DOI is assigned to:
 
 `vim ex1c.txt`
-`: /author`
-`:/title`
+`/family`
+`/"title"`
 
-You can see that using command line tools to query DOI metadata is no joke! 
+You can see that using UNIX commands to query DOI metadata is no joke! 
