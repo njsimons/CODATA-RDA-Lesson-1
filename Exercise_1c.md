@@ -1,1 +1,1 @@
-**Exercise 1c. Determine what work is associated with a given DOI**
+**Exercise 1c. Determine what information resource is associated with a given DOI**
