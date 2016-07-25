@@ -1,1 +1,1 @@
-`http://api.crossref.org/works?query=renear+-ontologies`
+`http://api.crossref.org/works?query.author=feynman&query.title=Surely+You're?filter=from-pub-date:1986-01-01`
