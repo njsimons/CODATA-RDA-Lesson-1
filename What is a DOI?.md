@@ -9,6 +9,8 @@ The DOI is NOT by itself an indicator of open access content or a seal of qualit
 A DOI is considered a persistent identifier because it reliably resolves to a human- and machine-readable landing page for the information resource. 
 Whether or not a user can click through the landing page to fetch the resource itself depends on various circumstances unrelated to the DOI system: format of the resource, restrictions and conditions governing access; authentication requirements; software compatibility; etc. 
 
+Even where the information resource is not available openly, the metadata associated with the DOI may be rich enough to provide useful data for a researcher. This lesson and the next look at the array of useful public data associated with DOIs.
+
 
   
 
