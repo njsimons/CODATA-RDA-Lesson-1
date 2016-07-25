@@ -8,5 +8,6 @@ What is DOI (2).md
 Ecercise _1b.md
 Ecercise _1b_code.md
 Exercise_1c.md
+Ecercise _1c_code.md
  What does a DOI look like?.md
 Getting a DOI.md
