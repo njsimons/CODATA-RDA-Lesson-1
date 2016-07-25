@@ -1,5 +1,6 @@
-##Module 1B. What is the DOI System?
-
+---
+##**Module 1B. What is the DOI System?**
+---
 The [DOI System](https://www.doi.org/) is the overall infrastructure by which digital object identifiers are assigned, registered, resolved, and associated with valuable metadata including citation, availability of full text, funder information,  licensing information, and more. The following components of the DOI System together make it work.
 * [The International DOI Federation (IDF)](http://www.doi.org/doi_handbook/7_IDF.html) is responsible for the overall governance of the system. IDF is a not-for-profit membership organization that oversees the operations of the federation of Registration Agencies which providing Digital Object Identifier (DOI) services and registration. IDF is also the registration authority for the ISO standard (ISO 26324) for the DOI system.
 * [Registration Agencies](https://www.doi.org/registration_agencies.html) provide services to Registrants — allocating DOI name prefixes, registering DOI names and providing the necessary infrastructure to allow Registrants to declare and maintain metadata and state data. Some RAs (e.g., CrossRef) include web searches of DOIs and associated metadata for researchers and public users. 
