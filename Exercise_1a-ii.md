@@ -1,1 +1,1 @@
-**Exercise 1a-ii. 
+**Exercise 1a-ii**
