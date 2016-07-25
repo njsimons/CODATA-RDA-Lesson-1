@@ -6,7 +6,7 @@ What is a DOI (1).md
 figures/Figure 1/Figure 1.png
 What is DOI (2).md
 Ecercise _1b.md
-Ecercise _1b_code.md
+Exercise _1b_code.md
 Exercise_1c.md
 Ecercise _1c_code.md
  What does a DOI look like?.md
