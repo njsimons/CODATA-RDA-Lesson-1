@@ -6,10 +6,9 @@ Digital Object Identifiers (DOIs) are unique names assigned to research outputs 
 
 The DOI is NOT by itself an indicator of open access content or a seal of quality. Yet information resources that are assigned DOIs tend to be of enduring value; are likely to be used and cited by others; and are maintained by a publisher or other information provider who is committed to curating and preserving the resource over time. Examples of research-related information resources assigned DOIs include journal articles, curated datasets, theses, conference papers, and books.
 
-A DOI is considered a persistent identifier because it reliably resolves to a human- and machine-readable landing page for the information resource. 
-Whether or not a user can click through the landing page to fetch the resource itself depends on various circumstances unrelated to the DOI system: format of the resource, restrictions and conditions governing access; authentication requirements; software compatibility; etc. 
+A DOI is considered a persistent identifier because it reliably resolves to a human- and machine-readable landing page for the information resource. The DOI system is designed with the technical, bsiness, and human infrastructure required to ensure that the DOI will always point to relevant content on the Web. Whether or not a user can click through the landing page to fetch the full content depends on various circumstances unrelated to the DOI system: format of the resource, restrictions and conditions governing access; authentication requirements; software compatibility; etc. 
 
-Even where the information resource is not available openly, the metadata associated with the DOI may be rich enough to provide useful data for a researcher. This lesson and the next look at the array of useful public data associated with DOIs.
+The metadata associated with the DOI is often rich enough to provide useful data for a researcher. This lesson and the next look at the array of useful public data associated with DOIs.
 
 
   
