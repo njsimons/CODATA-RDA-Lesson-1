@@ -3,7 +3,7 @@ Exercise_1A(1).md
 Exercise_1A(1)_code.md
 Exercise_1A(2).md
 Exercise_1A(2)_code1.md
-Exercise1a(3).md
+Exercise1A(3).md
 Exercise_1A(3)_code.md
 DOI System.md
 Exercise 1b..md
