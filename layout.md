@@ -5,7 +5,6 @@ Exercise_1a(2).md
 Exercise_1a(2)_code1.md
 Exercise1a(3).md
 Exercise_1a(3)_code.md
-Exercise_1a(4).md
 DOI System.md
 Exercise 1b..md
 What is a DOI (1).md
