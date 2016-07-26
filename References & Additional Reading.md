@@ -7,6 +7,6 @@
 + DataCite Metadata Search Help, http://search.datacite.org/help.html
 + Digital Object Identifier (DOI) Handbook, https://www.doi.org/hb.html
 + Digital Object Identifier System and DOI Names (DOIs) Guide from Australian National Data Service, http://www.ands.org/guides/doi
- + DOI Citation Formatter beta, http://crosscite.org/citeproc/
++ DOI Citation Formatter beta, http://crosscite.org/citeproc/
 
 
