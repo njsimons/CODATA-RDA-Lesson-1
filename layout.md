@@ -22,5 +22,5 @@ exercise moved.md
 Getting a DOI.md
 Exercise_1c1.md
 Exercise _1c_code1.md
-More Code Examples to Try.md
+References & Additional Reading.md
 More Code Examples.md
