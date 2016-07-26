@@ -1,1 +1,1 @@
-**Exercise 1B(3). Retrieve a list of research outputs assigned a DataCite DOI by a particular data center**
+**Exercise 1B(3). Retrieve a list of DataCite members**
