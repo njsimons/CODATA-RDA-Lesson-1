@@ -3,6 +3,8 @@
 + curl documentation, 2016.  https://curl.haxx.se/
 
 + CrossRef REST API, 2016. http://rest-api-doc/rest_api.md
++ 
++ Beyond the DOI to richer metadata, CrossRef Blog posting of June 15, 2016 by April Ondis, http://blog.crossref.org/2016/06/beyond-the-doi-to-richer-metadata.html
 
 + Digital Object Identifier (DOI) Handbook, https://www.doi.org/hb.html
 
