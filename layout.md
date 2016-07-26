@@ -13,7 +13,7 @@ What is DOI (2).md
 Exercise_1b(1).md
 Exercise _1B(1)_code.md
 Exercise _1B(2).md
-Exercise _1b(2)_code.md
+Exercise _1B(2)_code.md
 Exercise_1c.md
 Exercise _1c_code.md
  What does a DOI look like?.md
