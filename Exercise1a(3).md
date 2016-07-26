@@ -1,1 +1,1 @@
-**Exercise 1a(3). Determine if a 'DOI-style string' is a valid DOI.**
+**Exercise 1A(3). Determine if a 'DOI-style string' is a valid DOI.**
