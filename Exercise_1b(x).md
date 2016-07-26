@@ -1,1 +1,0 @@
-**Exercise 1b(x) Determine which publisher is represented by a given DOI prefix**
