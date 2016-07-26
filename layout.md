@@ -16,6 +16,7 @@ Ecercise _1b.md
 Exercise _1b_code.md
 Exercise_1c.md
 Exercise _1c_code.md
+exercise moved.md
  What does a DOI look like?.md
 Getting a DOI.md
 Exercise_1c1.md
