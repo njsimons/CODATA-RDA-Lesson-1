@@ -1,3 +1,3 @@
 `$ curl -L http://10.5454/JPSv1i220161014`
 
-[_Note: this faux DOI was assigned by an established publisher to detect and block unauthorized access to their system. The controversy surrounding publisher creation of DOI-like strings for business operations was taken up in an interesting posting on the CrossRef blog, [DOI-like strings and fake DOIs](http://blog.crossref.org/2016/06/doi-like-strings-and-fake-dois.html).  
+[_Note: this faux DOI was assigned by an established publisher to detect and block unauthorized access to their system. The controversy surrounding publisher creation of DOI-like strings for business operations was taken up in an interesting posting on the CrossRef blog, [DOI-like strings and fake DOIs](http://blog.crossref.org/2016/06/doi-like-strings-and-fake-dois.html)_].  
