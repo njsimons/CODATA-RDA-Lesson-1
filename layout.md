@@ -11,7 +11,7 @@ What is a DOI (1).md
 figures/Figure 1/Figure 1.png
 What is DOI (2).md
 Exercise _1b(2).md
-Exercise _1b_code.md
+Exercise _1b(2)_code.md
 Exercise_1c.md
 Exercise _1c_code.md
 Exercise_1b(x).md
