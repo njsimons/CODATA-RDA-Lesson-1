@@ -1,1 +1,1 @@
-**Exercise 1a(1). Demonstrate how to resolve a DOI to the web landing page for the associated information resource.**
+**Exercise 1B(1). Demonstrate how to resolve a DOI to the web landing page for the associated information resource.**
