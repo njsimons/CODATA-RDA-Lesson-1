@@ -1,1 +1,1 @@
-**More Code Examples to Try**
+ curl documentation, 2016.  https://curl.haxx.se/
