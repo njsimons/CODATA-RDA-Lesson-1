@@ -1,1 +1,1 @@
-[link_text](link_url)**Exercise 1A(1). Demonstrate that a DOI redirects to the web landing page for the associated information resource.**
+**Exercise 1A(1). Demonstrate that a DOI redirects to the web landing page for the associated information resource.**
