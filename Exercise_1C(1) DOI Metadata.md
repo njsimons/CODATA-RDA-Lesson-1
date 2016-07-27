@@ -1,0 +1,1 @@
+**Query the CrossRef API to retrieve a citation for a published article in BibTeX format**
