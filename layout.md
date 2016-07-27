@@ -5,7 +5,7 @@ Exercise_1A(2).md
 Exercise_1A(2)_code.md
 Exercise1A(3).md
 Exercise_1A(3)_code.md
-DOI System.md
+Module_1B.md
 Exercise 1b..md
 What is a DOI (1).md
 figures/Figure 1/Figure 1.png
