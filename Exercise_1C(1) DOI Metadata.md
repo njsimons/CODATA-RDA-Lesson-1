@@ -1,1 +1,1 @@
-**Exercise 1C(1). Query a Registration Agency API to retrieve citations for research outputs in BibTeX format**
+**Exercise 1C(1). Query the Registration Agency API to retrieve a citation for a published article**
