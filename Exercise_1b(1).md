@@ -1,1 +1,0 @@
-**Exercise 1b(1). Determine which organization has been assigned a given DOI prefix**
