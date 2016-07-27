@@ -1,2 +1,0 @@
-The DOI itself starts with the prefix and the number 10 followed by a dot. 
-After the dot comes a code representing a particular information provider or publisher.  These codes are assigned by one of the DOI Registration Agencies (e.g., CrossRef, DataCite, European Union Publications Office, etc.) to organizations that sign on as members and agree to the Agency's terms of DOI registration. 
