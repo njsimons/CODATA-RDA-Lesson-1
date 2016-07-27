@@ -1,1 +1,1 @@
-**Exercise 1c. Look at Zenodo content and see the DOI assigned.**
+**Exercise 1D. Look at Zenodo content and see the DOI assigned.**
