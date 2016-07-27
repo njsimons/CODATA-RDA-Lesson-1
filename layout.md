@@ -9,7 +9,6 @@ Module_1B.md
 Exercise 1b..md
 What is a DOI (1).md
 figures/Figure 1/Figure 1.png
-What is DOI (2).md
 Exercise _1B(1)_code.md
 Exercise _1B(2).md
 Exercise _1B(2)_code.md
