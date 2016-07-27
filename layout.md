@@ -15,7 +15,7 @@ Exercise _1B(1)_code.md
 Exercise _1B(2).md
 Exercise _1B(2)_code.md
 Exercise _1B(3).md
-Exercise_1c.md
+Exercise_1C.md
 Exercise _1c_code.md
 Module 1C. DOI Metadata.md
 Exercise_1C(1) DOI Metadata.md
