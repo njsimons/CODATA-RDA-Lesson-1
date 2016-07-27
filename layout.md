@@ -19,7 +19,7 @@ Exercise_1c.md
 Exercise _1c_code.md
  What does a DOI look like?.md
 Getting a DOI.md
-Exercise_1c1.md
+Exercise_1D(1).md
 Exercise _1c_code1.md
 References & Additional Reading.md
 More Code Examples.md
