@@ -1,1 +1,1 @@
-`$curl -s -S http://api.crossref.org/works/http://dx.doi.org/10.2307/1578389 > cite1.txt`
+`$curl -s -S http://api.crossref.org/works/http://dx.doi.org/10.1103/PhysRevLett.116.061102 > cite1.txt`
