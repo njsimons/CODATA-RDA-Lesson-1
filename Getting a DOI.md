@@ -1,5 +1,5 @@
 ---
-##**Module 1C. How do I get a Digital Object Identifier (DOI) for my material?**
+##**Module 1D. How do I get a Digital Object Identifier (DOI) for my material?**
 ---
 
 You have two options: 
