@@ -22,6 +22,5 @@ Exercise_1C(1)_code.md
  What does a DOI look like?.md
 Module_1D.md
 Exercise_1D(1).md
-Exercise _1c_code1.md
 References.md
 More Code Examples.md
