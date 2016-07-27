@@ -24,5 +24,5 @@ Exercise_1C(1)_code.md
 Module_1D.md
 Exercise_1D(1).md
 Exercise _1c_code1.md
-References & Additional Reading.md
+References.md
 More Code Examples.md
