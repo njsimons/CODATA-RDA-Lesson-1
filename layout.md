@@ -18,6 +18,7 @@ Exercise _1B(3).md
 Exercise_1c.md
 Exercise _1c_code.md
 Module 1C. DOI Metadata.md
+Exercise_1C(1) DOI Metadata.md
  What does a DOI look like?.md
 Getting a DOI.md
 Exercise_1D(1).md
