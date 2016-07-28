@@ -1,1 +1,1 @@
-**Excercise 1B(2). Given a DOI, determine which Registration Agency issued it**
+**Exercise 1B(2). Given a DOI, determine which Registration Agency issued it**
