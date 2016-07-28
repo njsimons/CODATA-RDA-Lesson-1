@@ -6,6 +6,7 @@ Exercise_1A(2)_code.md
 Exercise1A(3).md
 Exercise_1A(3)_code.md
 Module_1B.md
+figures/Figure 2/Figure 2.png
 Exercise 1b..md
 Exercise _1B(1)_code.md
 Exercise _1B(2).md
